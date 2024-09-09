@@ -1,0 +1,8 @@
+var script_test = Class.create();
+script_test.prototype = {
+    initialize : function() {
+    },
+//test  
+    type :  'script_test'
+};
+      
